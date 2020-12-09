@@ -1,2 +1,2 @@
-# Collinson-group
-Vending machine java program excercise
+vending-machine-ray
+====================
